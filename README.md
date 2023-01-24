@@ -1,4 +1,5 @@
 <div align="center">
+  <h5 align="center">This is the dev version of the project</h5>
   <h3 align="center">Webpack w/ BootStrap Template</h3>
 
   <p align="center">
@@ -6,8 +7,6 @@
     Enjoy it!
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -23,11 +22,9 @@
 
 This is a simple project that exists only to be used as a kick-start for all your projects running webpack and bootstrap.
 
-
 ## Installation
 
 Simple run `npm install` to install the necessary modules.
-
 
 ## Usage
 
